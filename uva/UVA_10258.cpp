@@ -84,7 +84,7 @@ int main()
                 if (c == 'I')
                 {
                     u[n].pbf[m - 1] += 20;
-                }
+                }   
                 else if (c == 'C')
                 {
                     u[n].p += p + u[n].pbf[m - 1];
