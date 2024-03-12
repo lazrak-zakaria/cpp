@@ -16,5 +16,8 @@ using namespace std;
 
 int main()
 {
-
+    // 1111 0101
+    int c = 5;
+    bool a =  ((1 << 4) & 5) ; 
+   cout <<  a << "\n";
 }
